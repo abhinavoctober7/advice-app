@@ -26,7 +26,7 @@ function App() {
       <div className="card">
         <h1 className="heading">{advice}</h1>
         <button className="button" onClick={fetchApi}>
-          <span>Give Me Advice</span>
+          <span>Give Me Advice!</span>
         </button>
       </div>
     </div>
